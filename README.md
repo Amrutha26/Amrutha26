@@ -1,6 +1,6 @@
-### Hey, I'm Amrutha! 
+## Hey, I'm Amrutha! :dizzy:
 
-## I love web development :heart:
+### I love web development :heart:
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
