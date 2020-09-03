@@ -39,7 +39,7 @@
 [twitter]: https://twitter.com/Amrutha2601
 [instagram]: https://instagram.com/_amru26_
 [linkedin]: https://linkedin.com/in/amrutha-amudhan-7042b918b/
-[gmail]: amrutha261001@gmail.com
+[gmail]: mailto:amrutha261001@gmail.com
 
 
 
