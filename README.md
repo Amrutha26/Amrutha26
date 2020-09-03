@@ -9,6 +9,7 @@
 - An aspiring full stack web developer.
 - Learning gives me satisfaction in life.
 - Would love to help anyone!
+<br>
 
 ### Languages and Tools :computer::
 
