@@ -1,4 +1,4 @@
-## Hey, I'm Amrutha! :dizzy:
+## Hey, I'm Amrutha! 
 
 ### I love web development :heart:
 
