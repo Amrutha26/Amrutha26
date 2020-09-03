@@ -6,6 +6,7 @@
 - Started learning programming in July 17 2020.
 - Goal:- Self learn: 1 hour daily.
 - Currently doing #100DaysOfCode Challenge in Twitter.
+- An aspiring full stack web developer.
 - Learning gives me satisfaction in life.
 - Would love to help anyone!
 
@@ -17,7 +18,7 @@
 [<img align="left" alt="Amrutha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/Amrutha26
+[twitter]: https://twitter.com/Amrutha2601
 [instagram]: https://instagram.com/_amru26_
 [linkedin]: https://linkedin.com/in/amrutha-amudhan
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
