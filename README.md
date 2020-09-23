@@ -6,7 +6,6 @@
 - Started learning programming in July 17 2020.
 - Goal:- Self learn: 1 hour daily.
 - Currently doing #100DaysOfCode Challenge in Twitter.
-- An aspiring full stack web developer.
 - Learning gives me satisfaction in life.
 - Would love to help anyone!
 <br>
