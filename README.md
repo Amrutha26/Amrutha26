@@ -4,6 +4,7 @@
 
 - Computer Science and Engineering.
 - Started learning programming in July 17 2020.
+- Java: DS and Algo
 - Goal:- To self learn consistently!
 - Currently doing #100DaysOfCode Challenge in Twitter.
 - Learning gives me satisfaction in life.
