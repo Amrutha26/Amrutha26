@@ -36,7 +36,7 @@
 [<img align="left" alt="Amrutha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
-[twitter]: https://twitter.com/Amrutha2601
+[twitter]: https://twitter.com/Amrutha26_
 [instagram]: https://instagram.com/_amru26_
 [linkedin]: https://linkedin.com/in/amrutha-amudhan-7042b918b/
 [gmail]: mailto:amrutha261001@gmail.com
