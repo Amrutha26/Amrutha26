@@ -1,13 +1,11 @@
 ## Hey, I'm Amrutha! 
 
-### I love web development :heart:
+### Struggling with consistency. Will surely achieve it one day! :heart:
 
 - Computer Science and Engineering.
-- Started learning programming in July 17 2020.
-- Problem solving.
-- Goal:- To self learn consistently!
+- Focussing on problem solving skills.
+- Goal:- To code everyday.
 - Currently doing #100DaysOfCode Challenge in Twitter.
-- Learning gives me satisfaction in life.
 - Would love to help anyone!
 <br>
 
