@@ -1,10 +1,9 @@
 ## Hey, I'm Amrutha! 
 
-### Struggling with consistency. Will surely achieve it one day! :heart:
+### Consistency is my goal. Love the process more than the result :heart:
 
 - Computer Science and Engineering.
-- Focusing on the basics of Computer Science.
-- Goal:- To code everyday.
+- Focusing on Problem Solving Skills.
 - #100DaysOfCode Challenge in Twitter
 - Would love to help anyone!
 <br>
